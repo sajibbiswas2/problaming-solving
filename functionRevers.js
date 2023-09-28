@@ -1,3 +1,5 @@
+//function revers
+
 function reversData(str) {
     let revrs = '';
     for (let i = str.length - 1; i >= 0; i--){
@@ -11,3 +13,4 @@ function reversData(str) {
 
 const reversAllData = reversData('hello')
 console.log(reversAllData);
+
