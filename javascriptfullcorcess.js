@@ -56,10 +56,78 @@
 //function
 
 //================
-function mydata (){
-    console.log('this is good boy')
+// function mydata (){
+//     console.log('this is good boy')
+// }
+// mydata();
+// mydata();
+// mydata();
+// mydata();
+//=====================
+//incers man
+
+// function decersnumber(a,b){
+//     console.log(a-b);
+// }
+// decersnumber(20,17)
+
+//================
+
+// function mood (num){
+//     return num-7;
+// }
+// console.log(mood(20));
+//===================
+//function or condeition
+//=======================
+
+// function trueorfalse(Thisisnumber){
+//     if(Thisisnumbers){
+//      return "yes this true"
+//     }
+// else
+//     {
+//      return 'this is a false'
+//     }
+// }
+
+// console.log(trueorfalse)
+
+//==================================
+// function number (val){
+//     if(val==10){
+//         return true;
+//     }
+//     else{
+//         return false
+//     }
+// }
+// console.log(number(12));
+
+//===================================
+
+// function numbers (a,b){
+//     if(a===b){
+//         return 'this condetion is true'
+//     }
+//     else{
+//         return 'this conditon is false'
+//     }
+
+// }
+
+// console.log(numbers(10,"10"))
+
+//================================
+
+function numbers (a,b){
+    if(a==b){
+        return 'this condetion is true'
+    }
+    else{
+        return 'this conditon is false'
+    }
+
 }
-mydata();
-mydata();
-mydata();
-mydata();
+console.log(numbers(10,"10"))
+// javascriptfullcorcess.js
